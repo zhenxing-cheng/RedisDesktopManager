@@ -3,16 +3,16 @@
 	url = https://github.com/RedisDesktop/CrashReporter.git
 [submodule "3rdparty/easyloggingpp"]
 	path = 3rdparty/easyloggingpp
-	url = https://github.com/easylogging/easyloggingpp.git
+	url = https://github.com/muflihun/easyloggingpp.git
 [submodule "3rdparty/qredisclient"]
 	path = 3rdparty/qredisclient
 	url = https://github.com/uglide/qredisclient.git
 [submodule "3rdparty/gbreakpad"]
 	path = 3rdparty/gbreakpad
-	url = https://chromium.googlesource.com/breakpad/breakpad
+	url =  https://github.com/google/breakpad.git
 [submodule "3rdparty/qgamp"]
 	path = 3rdparty/qgamp
-	url = https://github.com/uglide/qgamp.git
+	url = https://github.com/achipa/qgamp.git
 [submodule "src/qml/3rdparty/php-unserialize-js"]
 	path = src/qml/3rdparty/php-unserialize-js
-	url = https://github.com/uglide/php-unserialize-js.git
+	url = https://github.com/bd808/php-unserialize-js.git
